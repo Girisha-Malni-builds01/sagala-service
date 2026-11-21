@@ -7,7 +7,7 @@
 
 ## 📱 Executive Summary
 
-**SAGALA SERVICE** connects local shoppers with brick-and-mortar merchants across Madurai (Anna Nagar, KK Nagar, Simmakkal, Goripalayam, Meenakshi Amman Temple Area, Mattuthavani, SS Colony, South Gate). 
+**SAGALA SERVICE** connects local shoppers with merchants across Madurai (Anna Nagar, KK Nagar, Simmakkal, Goripalayam, Meenakshi Amman Temple Area, Mattuthavani, SS Colony, South Gate). 
 
 - **For Customers**: Browse live, influencer-style deals without logging in, view shop addresses and timings, compare product prices & varieties side-by-side, copy counter coupon codes, and contact shops directly via Phone Call, WhatsApp, or Google Maps directions.
 - **For Shop Vendors**: Post and manage offers in under 30 seconds from a phone, list products with multiple varieties (size, colour, model), track shop visits and customer enquiries, and enter coupon codes in "Mark Sale" to measure confirmed revenue and sales boost.
@@ -127,17 +127,3 @@ Visit `http://localhost:5173/` in your browser.
 - In Admin mode, approve pending shops, edit categories, and download the full merchant CSV report.
 
 ---
-
-## 🌐 Deploying to Production (100% Free Hosting)
-
-### Deploying to Cloudflare Pages:
-1. Push your repository to GitHub.
-2. In Cloudflare Dashboard, navigate to **Workers & Pages** → **Create application** → **Pages** → **Connect to Git**.
-3. Set **Build command**: `npm run build`
-4. Set **Build output directory**: `dist`
-5. Click **Save and Deploy**. Done!
-
-### Deploying to Vercel:
-1. Import your GitHub repository in the Vercel dashboard.
-2. Framework preset will automatically detect **Vite**.
-3. Click **Deploy**. Done!
